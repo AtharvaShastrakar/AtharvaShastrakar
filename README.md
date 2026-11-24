@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br><br>👋 Hi, I'm Atharva Shastrakar, a Cyber Security graduate and Full Stack Developer.<br><br>🔐 I focus on offensive security and building secure web apps with ReactJS, Python, Flask, and Node.js.<br><br><br><br>🎯 Interested in ethical hacking, pentesting, and security research. Open to opportunities!
+💫 About Me:<br><br>👋 Hi, I'm Atharva Shastrakar, a Cyber Security graduate and Full Stack Developer.<br><br>🔐 I focus on offensive security and building secure web apps with ReactJS, Python, Flask, and Node.js.<br><br>🎯 Interested in ethical hacking, pentesting, and security research. Open to opportunities!
 
 
 ## 🌐 Socials:
